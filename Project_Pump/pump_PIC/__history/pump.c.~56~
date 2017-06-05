@@ -1,0 +1,102 @@
+#include <pump.h>
+
+#include <stddef.h>
+#include <stdlib.h>
+#include <stdlibm.h>
+#include <string.h>
+#include <stdio.h>
+#include <stdint.h>
+#include <ios.h>
+
+int1 falla;
+int1 flasheo;
+int16 ktiempo;
+int datos_portA;
+int datos_portB;
+int x;
+int y;
+//Desarrollo de Funciones//
+void busca_falla(void)
+{
+   if (!nb && na )falla=1;
+   if (termico)falla=1;
+}
+
+void secuencia(void)
+{
+   if(!nb && !na)LED_ON(pump);
+   if(nb && na)LED_OFF(pump);
+}
+
+void mostrar_falla(void)
+{
+   LED_OFF (pump);
+   LED_OFF (ciclo);
+   if (flasheo)output_toggle(fallo);
+   if (paro)falla=0;
+}
+void genera_flasheo(void)
+{
+   ktiempo=ktiempo+1;
+   //if (ktiempo==0)flasheo=0;
+   if (ktiempo==5)
+   {
+      flasheo= !flasheo;
+      ktiempo=0;
+   }
+   
+}
+
+void envia_datos(void)
+{
+fprintf (PORT1,"$ %x # @ %x ",port_a,port_b);
+}
+
+
+
+void main()
+{
+set_tris_a(0x1F);// 0001 1111
+set_tris_b(0x00);// 0000 0000 
+
+x=input(port_a);
+y=input(port_b);
+
+ 
+
+ 
+
+
+   while(true)
+   {
+      busca_falla();
+      if ( ( inicio ) && ( !paro ) && ( falla == 0 ) ) LED_ON ( ciclo );  
+   
+    
+    if (paro)   
+    {
+      LED_OFF(ciclo);
+      LED_OFF(pump);
+    }
+    if ( (input(ciclo)) && (falla==0) )secuencia();
+   
+    if (falla==1)
+    {
+      mostrar_falla();
+    }
+    else
+    {
+      LED_OFF(fallo);
+    }
+    delay_us(100);
+    genera_flasheo();
+    //envia_datos();
+    
+    fprintf (PORT1,"$ %x # @ %x ",port_a,port_b);
+
+   }
+
+}
+
+
+

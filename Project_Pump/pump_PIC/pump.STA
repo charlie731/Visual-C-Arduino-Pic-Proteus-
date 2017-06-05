@@ -1,0 +1,61 @@
+
+ROM used:   618/65536 (1%)
+            618/65536 (1%) including unused fragments
+
+            0.2 Average locations per line
+            1.1 Average locations per statement
+
+RAM used:   18/3968 (0%) at main() level
+            26/3968 (1%) worst case
+
+Stack used: 0 worst case (0 in main + 0 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  100    49   9  pump.c
+   38     0   0  pump.h
+  840     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Devices\18F4620.h
+   32     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stddef.h
+ 1351   359  65  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdlib.h
+  435     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\string.h
+   28     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\ctype.h
+  335   129  23  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdlibm.h
+   76    13   2  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\memmgmt.c
+   37     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdio.h
+  163     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdint.h
+   46     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\ios.h
+----- -----
+ 3481   550 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     20   2    0    112  3.0  busca_falla
+0     24   2    0    136  2.6  secuencia
+0     20   2    0    115  2.1  mostrar_falla
+0     28   2    0    104  3.3  genera_flasheo
+0    170  14    0    282  3.1  envia_datos
+0     40   3    3             @DIV88
+0    186  15    6             @PRINTF_D_9600_31766_31767
+0    126  10    1    570  4.8  MAIN
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               6
+    Statements              550
+    Comments                705
+    Volume (V)              1952
+    Difficulty (D)          18.7
+    Effort to implement (E) 36588
+    Time to implement (T)   34 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   13
+    Maintainability (MI)    23
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-0FFFE   614  64918  
+
+
+

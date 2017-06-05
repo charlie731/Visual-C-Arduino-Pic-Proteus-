@@ -1,0 +1,19 @@
+ÀÄpump
+   ÀÄMAIN  0/126  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄbusca_falla  0/20  Ram=0
+      ÃÄsecuencia  0/24  Ram=0
+      ÃÄmostrar_falla  0/20  Ram=0
+      ÃÄgenera_flasheo  0/28  Ram=0
+      ÀÄenvia_datos  0/170  Ram=0
+         ÃÄ@PRINTF_D_9600_31766_31767  0/186  Ram=6
+         ³  ÃÄ@DIV88  0/40  Ram=3
+         ³  ÀÄ@DIV88  0/40  Ram=3
+         ÃÄ@PRINTF_D_9600_31766_31767  0/186  Ram=6
+         ³  ÀÄ*
+         ÃÄ@PRINTF_D_9600_31766_31767  0/186  Ram=6
+         ³  ÀÄ*
+         ÃÄ@PRINTF_D_9600_31766_31767  0/186  Ram=6
+         ³  ÀÄ*
+         ÀÄ@PRINTF_D_9600_31766_31767  0/186  Ram=6
+            ÀÄ*

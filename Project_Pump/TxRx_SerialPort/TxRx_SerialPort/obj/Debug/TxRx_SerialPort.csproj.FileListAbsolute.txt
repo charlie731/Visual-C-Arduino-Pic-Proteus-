@@ -1,0 +1,161 @@
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+c:\users\helenne\documents\visual studio 2013\Projects\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+H:\Proyectos\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+D:\Users\CHARLY\Downloads\TxRxSerialPort\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Downloads\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+C:\Users\Charlie\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Users\CHARLY\Desktop\TxRxSerialPort_c#\TxRxSerialPort_c#\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+C:\Users\Charlie\Desktop\Pump_Arduino\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+C:\Users\Charlie\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+C:\Users\Charlie\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+D:\Users\CHARLY\Desktop\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+H:\Nueva carpeta\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe.config
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Properties.Resources.resources
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.Form1.resources
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\obj\Debug\TxRx_SerialPort.csproj.GenerateResource.Cache
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.exe
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\TxRx_SerialPort.pdb
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Helpers.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Mvc.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.Razor.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Charlie\Desktop\Archivos\Archivos\Project_Pump\TxRx_SerialPort\TxRx_SerialPort\bin\Debug\System.Web.WebPages.Razor.xml

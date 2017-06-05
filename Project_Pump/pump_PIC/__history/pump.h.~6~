@@ -1,0 +1,36 @@
+#include <18F4620.h>
+#device ADC=10
+#use delay(crystal=4MHz)
+#use rs232(baud=9600,parity=N,xmit=PIN_C6,rcv=PIN_C7,bits=8,stream=PORT1,restart_wdt)
+
+#define inicio     INPUT (PIN_A0)
+#define paro       INPUT (PIN_A1)
+#define nb         INPUT (PIN_A2)
+#define na         INPUT (PIN_A3)
+#define termico    INPUT (PIN_A4)
+
+//#use fast_io(A)
+//#use fast_io(B)
+
+#byte port_b=0b00000000
+#byte tris_b=0b00000000
+
+#byte port_a=0b00011111
+#byte tris_a=0b00011111
+
+
+   #define LED_ON(x) output_high(x)  
+   #define LED_OFF(x) output_low(x)
+   
+#define ciclo PIN_B0
+#define fallo PIN_B1
+#define pump  PIN_B2
+
+
+// Funciones //
+
+void busca_falla(void);
+void secuencia(void);
+void mostrar_falla(void);
+void genera_flasheo(void);
+void envia_datos(void);
